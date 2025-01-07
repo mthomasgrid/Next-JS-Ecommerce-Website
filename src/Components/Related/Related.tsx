@@ -47,7 +47,6 @@ export default async function RelatedProducts() {
                     width={150}
                     height={150}
                     className="products"
-                    loading="lazy"
                   />
                   <Link href={`/productdetails/${product.id}`}>
                     <button className="related-container-button">

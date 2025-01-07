@@ -96,17 +96,18 @@
     text-align: center;
     color: #8A8FB9;
 }
-
 .product-card-right-original-price span{
     margin-right: 30px;
 }
 .product-card-right-icon{
-    cursor: pointer;
     margin-top: 40px;
+}
+.products-links-active{
+    color: #FB2E86;
 }
 
 /*GRID VIEW code start*/
-.product-design{
+/* .product-design{
     display:grid;
     grid-template-columns:repeat(3,1fr);
 }
@@ -123,12 +124,12 @@
 .product-card-rating-title{
     display: flex;
     justify-content: space-between;
-}
+} */
 /*GRID VIEW code end*/
 
 
 /*List View Code Starts*/
-/* .ratings-star-value{
+.ratings-star-value{
     filter: brightness(0.7) sepia(1) saturate(4);
 }
 .product-card-rating-title{
@@ -143,5 +144,5 @@
     width: 856px;
     box-shadow: 8px 24px 32px -16px #10175026;
     margin: 1rem;
-}  */
+} 
 /*List View Code Ends*/
