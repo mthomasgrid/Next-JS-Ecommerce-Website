@@ -38,7 +38,7 @@ interface Product {
 export default async function ProductDetailspage({
   params,
 }: ProductDetailsPageProps) {
-  const { slug } =  params;
+  const { slug } =   params;
 
   const productId = slug[slug.length - 1];
 

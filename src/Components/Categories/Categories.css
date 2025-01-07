@@ -19,8 +19,8 @@
     
 }
 .category-image {
-    border-radius: 100%;
-
+    border-radius: 50%;
+    object-fit: cover;
 }
 .category-name {
     text-align: center;

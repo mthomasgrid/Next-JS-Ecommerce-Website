@@ -25,7 +25,7 @@ export default function PerPage() {
             <div className={`caret ${isOpen ? "caret-rotate" : ""}`}></div>
           </div>
           <ul className={`menu-option ${isOpen ? "open" : ""}`}>
-            {["10", "20", "30", "50"].map((item) => (
+            {["10", "20", "50"].map((item) => (
               <li
                 key={item}
                 className={`${selectedValue === item ? "active" : ""} page-count-class`} 
