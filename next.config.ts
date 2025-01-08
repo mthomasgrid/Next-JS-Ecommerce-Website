@@ -6,6 +6,12 @@ module.exports = {
   images: {
     dangerouslyAllowSVG: true,
     domains: ['placehold.co','localhost'], 
+    localPatterns: [
+      {
+        pathname: '/**',
+        search: '',
+      },
+    ],
   },
 };
 const nextConfig: NextConfig = {
