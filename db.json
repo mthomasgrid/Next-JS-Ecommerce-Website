@@ -120,7 +120,7 @@
 			"id": "339336d2-0b5c-490b-9014-c9f3c52e6d6f",
 			"name": "Smart Speaker",
 			"brand": "Apple",
-			"category": "Smart Home Devices",
+			"category": "Audio Equipment",
 			"price": 199.99,
 			"wasPrice": 249.99,
 			"isSale": false,
@@ -136,7 +136,7 @@
 			"colors": ["salmon", "white", "brown", "aqua"],
 			"soldTimes": 1984,
 			"code": "0B5C-490B",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Speaker",
+			"thumbnail": "/assets/Headphones.png",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Speaker 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Speaker 2",
@@ -167,7 +167,7 @@
 			"colors": ["mediumvioletred", "salmon", "orange"],
 			"soldTimes": 354,
 			"code": "B21D-48F6",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=iPhone 12",
+			"thumbnail": "/assets/iphone.jpeg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=iPhone 12 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=iPhone 12 2",
@@ -200,7 +200,7 @@
 			"colors": ["orangered", "aqua", "mediumvioletred", "white"],
 			"soldTimes": 1379,
 			"code": "0ED2-4DCA",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Apple Watch Series 6",
+			"thumbnail": "/assets/watch.jpeg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Apple Watch Series 6 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Apple Watch Series 6 2",
@@ -228,7 +228,7 @@
 			"colors": ["black", "palegreen", "aqua"],
 			"soldTimes": 269,
 			"code": "A9DA-4379",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=iPad Pro",
+			"thumbnail": "/assets/ipad.webp",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=iPad Pro 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=iPad Pro 2",
@@ -256,7 +256,7 @@
 			"colors": ["brown", "teal", "mediumspringgreen"],
 			"soldTimes": 1162,
 			"code": "C6E9-40D8",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HomePod Mini",
+			"thumbnail": "/assets/Homepod.jpeg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HomePod Mini 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HomePod Mini 2",
@@ -372,7 +372,7 @@
 			"colors": ["darkorange", "hotpink", "teal"],
 			"soldTimes": 430,
 			"code": "8099-402D",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Light Bulb",
+			"thumbnail": "/assets/light.avif",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Light Bulb 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Light Bulb 2",
@@ -459,7 +459,7 @@
 			"colors": ["chartreuse", "fuchsia", "gray"],
 			"soldTimes": 478,
 			"code": "FAB8-454A",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Refrigerator",
+			"thumbnail": "/assets/ref.jpg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Refrigerator 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Refrigerator 2",
@@ -523,7 +523,7 @@
 			"colors": ["salmon", "greenyellow", "tomato"],
 			"soldTimes": 25,
 			"code": "09C7-4842",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Galaxy Note 20",
+			"thumbnail": "/assets/galaxy.jpg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Galaxy Note 20 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Galaxy Note 20 2",
@@ -550,7 +550,7 @@
 			"colors": ["green", "salmon", "white"],
 			"soldTimes": 1312,
 			"code": "667C-441D",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Washing Machine",
+			"thumbnail": "/assets/washingmachine.webp",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Washing Machine 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Washing Machine 2",
@@ -609,7 +609,7 @@
 			"colors": ["darkorange", "red", "hotpink", "white"],
 			"soldTimes": 224,
 			"code": "FA8E-4631",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Galaxy S20 FE",
+			"thumbnail": "/assets/galaxy2.png",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Galaxy S20 FE 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Galaxy S20 FE 2",
@@ -641,7 +641,7 @@
 			"colors": ["mediumspringgreen", "plum", "hotpink"],
 			"soldTimes": 1421,
 			"code": "AEC5-4DA8",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Vacuum Cleaner",
+			"thumbnail": "/assets/vaccum.jpg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Vacuum Cleaner 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Smart Vacuum Cleaner 2",
@@ -1068,7 +1068,7 @@
 			"colors": ["lemonchiffon", "lime", "teal"],
 			"soldTimes": 602,
 			"code": "E3A4-4D39",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Bose QuietComfort 35 II",
+			"thumbnail": "/assets/headphone1.jpg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Bose QuietComfort 35 II 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=Bose QuietComfort 35 II 2",
@@ -1341,7 +1341,7 @@
 			"colors": ["papayawhip", "tomato", "greenyellow"],
 			"soldTimes": 1068,
 			"code": "B6B6-4D30",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Spectre x360",
+			"thumbnail": "/assets/laptop.png",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Spectre x360 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Spectre x360 2",
@@ -1373,7 +1373,7 @@
 			"colors": ["darkorange", "purple", "silver", "deeppink"],
 			"soldTimes": 717,
 			"code": "CE5F-4E92",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Pavilion 15",
+			"thumbnail": "/assets/laptop2.jpeg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Pavilion 15 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Pavilion 15 2",
@@ -1546,7 +1546,7 @@
 			"colors": ["dodgerblue", "green", "pink", "palevioletred"],
 			"soldTimes": 1157,
 			"code": "84E1-41DC",
-			"thumbnail": "https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Pavilion Gaming 15",
+			"thumbnail": "/assets/laptop3.jpg",
 			"imageSet": [
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Pavilion Gaming 15 1",
 				"https://placehold.co/600x400/EEE/31343C?font=playfair-display&text=HP Pavilion Gaming 15 2",

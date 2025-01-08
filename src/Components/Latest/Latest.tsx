@@ -17,7 +17,7 @@ export default async function LatestProducts() {
         <Link href="/" className="link-latest">Special Offer</Link>
       </div>
       <div className="card_fulldetails">
-        {products.slice(6, 20).filter((product) => product.rating.value > 3).map((product) => (
+        {products.slice(6,20).filter((product) => product.rating.value > 3).map((product) => (
           <Link
             href={`/productdetails/${product.id}`}
             className="card2"
@@ -29,7 +29,7 @@ export default async function LatestProducts() {
                 alt="Game Console"
                 className="productsImage"
                 width={416}
-                height={272}
+                height={372}
                 loading="lazy"
               />
             </div>
